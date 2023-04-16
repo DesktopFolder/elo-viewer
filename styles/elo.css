@@ -1,0 +1,45 @@
+.query {
+    width: 5em;
+    margin: 5px;
+}
+
+.query-container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.flex-vertical {
+    flex-direction: column;
+}
+
+.query-submit {
+    width: auto;
+    margin: 5px;
+    padding: 1px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.big-query {
+    width: 50%;
+    border: 1px solid #cfd6db;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    border-radius: 0.3rem;
+}
+
+.wider
+{
+    max-width: 60em;
+}
+
+.stat {
+    margin-right: 1em;
+}
+
+.notice-banner {
+    width: auto;
+    background-color: #eeeeee;
+}
